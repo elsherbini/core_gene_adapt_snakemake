@@ -1,0 +1,10 @@
+channels:
+ - conda-forge
+dependencies:
+ - r-tidyverse
+ - r-cowplot
+ - r-ggthemes
+ - r-vegan
+ - r-clv
+ - r-pheatmap
+ - r-rcolorbrewer

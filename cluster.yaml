@@ -1,0 +1,26 @@
+# The default resources
+__default__:
+    nodes: 1
+    cores: 1
+    partition: "short"
+    mem: 16GB
+    time: "12:00:00"
+    # hours:minutes:seconds
+
+annotate_bakta:
+    cores: "{threads}"
+    mem: 32GB
+
+hmmsearch:
+    cores: "{threads}"
+    mem: 32GB
+
+align_genes:
+    cores: 1
+    mem: 1GB
+
+run_adapt_noniners:
+    mem: 128GB
+
+run_adapt_iners:
+    mem: 200GB

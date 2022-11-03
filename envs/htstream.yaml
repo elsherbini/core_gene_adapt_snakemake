@@ -1,0 +1,5 @@
+channels:
+ - hcc
+ - conda-forge
+dependencies:
+ - htstream=e919d21

@@ -1,0 +1,8 @@
+output/**
+input/**
+temp/**
+scratch/**
+bakta_db/**
+slurm/**
+.snakemake
+.snakemake/**

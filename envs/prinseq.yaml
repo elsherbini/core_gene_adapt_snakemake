@@ -1,0 +1,4 @@
+channels:
+ - bioconda
+dependencies:
+ - prinseq=0.20.4
